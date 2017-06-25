@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="47045" started-at="2017-06-24T13:51:22Z" finished-at="2017-06-24T13:52:09Z">
+  <suite name="Default suite" duration-ms="55957" started-at="2017-06-25T14:34:23Z" finished-at="2017-06-25T14:35:19Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="47045" started-at="2017-06-24T13:51:22Z" finished-at="2017-06-24T13:52:09Z">
-      <class name="Yixin.testScript.App_init">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Yixin.testScript.App_init@21b56b0b]" name="beforeMethod" is-config="true" duration-ms="46173" started-at="2017-06-24T21:51:22Z" finished-at="2017-06-24T21:52:08Z">
+    <test name="Default test" duration-ms="55957" started-at="2017-06-25T14:34:23Z" finished-at="2017-06-25T14:35:19Z">
+      <class name="Yixin.testScript.App_init_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Yixin.testScript.App_init_Test@70092adf]" name="beforeMethod" is-config="true" duration-ms="53863" started-at="2017-06-25T22:34:23Z" finished-at="2017-06-25T22:35:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="Test_Startup()[pri:0, instance:Yixin.testScript.App_init@21b56b0b]" name="Test_Startup" duration-ms="4" started-at="2017-06-24T21:52:08Z" finished-at="2017-06-24T21:52:08Z">
+        <test-method status="PASS" signature="Test_Startup()[pri:0, instance:Yixin.testScript.App_init_Test@70092adf]" name="Test_Startup" duration-ms="1265" started-at="2017-06-25T22:35:17Z" finished-at="2017-06-25T22:35:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_Startup -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Yixin.testScript.App_init@21b56b0b]" name="afterMethod" is-config="true" duration-ms="849" started-at="2017-06-24T21:52:08Z" finished-at="2017-06-24T21:52:09Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Yixin.testScript.App_init_Test@70092adf]" name="afterMethod" is-config="true" duration-ms="814" started-at="2017-06-25T22:35:18Z" finished-at="2017-06-25T22:35:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- Yixin.testScript.App_init -->
+      </class> <!-- Yixin.testScript.App_init_Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
