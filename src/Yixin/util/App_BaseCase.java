@@ -3,6 +3,7 @@ package Yixin.util;
 import java.io.File;
 import java.net.URL;
 
+import org.apache.commons.collections.map.StaticBucketMap;
 import org.openqa.selenium.By;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
